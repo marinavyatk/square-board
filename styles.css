@@ -30,3 +30,6 @@ transition: 1s ease;
 transition-duration: 0s;
 }
 
+.active{
+  transition: 0.3s ease;
+}
